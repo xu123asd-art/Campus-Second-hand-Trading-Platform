@@ -40,3 +40,8 @@
 
 \- 状态管理与路由：Pinia + Vue Router
 
+**2. 后端与底层技术架构**
+- 后端框架：Spring Boot (Java 企业级开发标准)
+- 数据库引擎：MySQL 8.0 (持久化存储业务数据)
+- 数据持久层框架：MyBatis-Plus
+- 接口文档规范：Swagger / Knife4j (便于前后端联调)
